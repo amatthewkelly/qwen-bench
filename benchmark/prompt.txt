@@ -1,0 +1,10 @@
+Write a Python function named `count_lines` that accepts a string and returns the number of newline-separated lines in the string.
+
+Requirements:
+- The empty string has 0 lines.
+- A string with no newline has 1 line.
+- Count every newline character.
+- Do not print anything.
+- Return an integer.
+- Include a short docstring.
+- Output only the Python code.
